@@ -23,7 +23,7 @@ All documentation [here](https://developer.android.com/docs).
 
 ```javascript
   function knowledge (determination, study, practice) {
-    return determination + (study * practice);
+    return determination + (study * practice); 
   }
 ```
 | NAME             | EMAIL                    |
