@@ -14,7 +14,6 @@ This is a android project with the proposal of listing and registration of stude
 ![Android Course Certificate](https://github.com/ccarvofficial/androidcourseproject-contactlistapp/blob/master/app/src/main/res/images/certificate.png)
 
 All documentation [here](https://developer.android.com/docs).
-
 ---
 ---
 ![Claudio Carvalho Logotype](https://github.com/ccarvofficial/react-tictactoe/blob/master/public/ccarv-logotype.png)<br>
