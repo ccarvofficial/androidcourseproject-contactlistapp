@@ -5,7 +5,7 @@
 This is a android project with the proposal of listing and registration of students with the integration of static data applying concepts of refactoring and life cycle of a project. Study documentation is available at: [Android Developers](https://developer.android.com/).
 
 ## Project Image
-![Project Image - Contact List](https://github.com/ccarvofficial/androidcourseproject-contactlistapp/blob/master/app/src/main/res/images/projectimage.png)
+![Project Image - Contact List](https://github.com/ccarvofficial/androidcourseproject-contactlistapp/blob/master/app/src/main/res/images/android-project-image.png)
 
 ## Tools
 - [Android Studio](https://developer.android.com/studio).
